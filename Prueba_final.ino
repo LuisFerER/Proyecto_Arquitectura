@@ -1,3 +1,10 @@
+/**
+**  Universidad Autonoma de Zacatecas Campus Jalpa
+**  Programa final para proyecto de Arquitectura de computadoras.
+**  Autor: Luis Fernando Escobedo Romero.
+**/
+
+
 #include <SPI.h>
 #include <MFRC522.h>
 #include <Wire.h>
